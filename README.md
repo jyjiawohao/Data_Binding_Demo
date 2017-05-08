@@ -1,7 +1,7 @@
 # Data_Binding_Demo  
 databinding的使用
 
-allprojects {
+	allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
